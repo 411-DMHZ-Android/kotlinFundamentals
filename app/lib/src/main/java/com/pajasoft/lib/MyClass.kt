@@ -17,8 +17,8 @@ fun main() {
         solo so es mayor de edad
     */
 //    println("Pon una edad")
-//    val input = readlnOrNull()
-//    val age = input?.toIntOrNull()  //Si input es nulo
+    val input = readlnOrNull()
+    val age = input?.toIntOrNull()  //Si input es nulo
 //    if( age == null){
 //        println("El numero que pusiste pa, no es un numero entero, insertalo bien!!")
 //    }
@@ -33,7 +33,6 @@ fun main() {
     for(i in 1..10) {
         print(i)
     }
-    1..10
 
     //Ciclo for al reves
     for(i in 10 downTo 2){
