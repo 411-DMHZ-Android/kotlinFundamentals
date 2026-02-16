@@ -64,4 +64,6 @@ fun main() {
         while (counter < 30 )
     //Determinar si un número ingresado por el usuario es un número primo
         //CAMBIO  INTERESANTE
+        //CAMBIO PENDIENTE?
+        //cambio que se me olvido por tonto
 }
