@@ -67,7 +67,8 @@ fun main() {
         //CAMBIO PENDIENTE?
         //cambio que se me olvido por tonto
         //ULTIMO CAMBIO DE MENSO!!
-        val variable
-        val testing
-        val nose
+        val variable = ""
+        val testing = 2
+        val nose = 1.0
+    //creando la funcionalidad de gistrarse en la app
 }
