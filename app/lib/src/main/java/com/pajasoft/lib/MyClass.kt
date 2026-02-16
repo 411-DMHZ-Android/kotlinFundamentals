@@ -70,5 +70,8 @@ fun main() {
         val variable = ""
         val testing = 2
         val nose = 1.0
-    //creando la funcionalidad de gistrarse en la app
+    //creando la funcionalidad de registrarse en la app
+    //creando
+    //creando el login
+    //creando conexión a la api de login
 }
